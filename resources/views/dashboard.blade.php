@@ -127,7 +127,7 @@
                                                     <span class="text-gray-700 fw-bolder d-block fs-2qx lh-1 ls-n1 mb-1">6</span>
                                                     <!--end::Number-->
                                                     <!--begin::Desc-->
-                                                    <span class="text-gray-500 fw-semibold fs-6">Rooms Booked Current</span>
+                                                    <span class="text-gray-500 fw-semibold fs-6">Rooms Booked Currently</span>
                                                     <!--end::Desc-->
                                                 </div>
                                                 <!--end::Stats-->
